@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Package files
+package-lock.json
+yarn.lock
+
+# IDE files
+.idea/
+.vscode/
