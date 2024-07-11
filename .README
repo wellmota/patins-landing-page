@@ -1,6 +1,6 @@
 # Project Name: Advanced CSS Transition and Animation Front End Study
 
-This project is aimed at studying and testing advanced CSS transition and animation techniques for front-end development. By exploring various CSS properties and keyframe animations, we aim to enhance our understanding and proficiency in creating visually appealing and interactive web interfaces.
+This project is aimed at studying and testing advanced CSS transition and animation techniques for front-end development as part of my Fullstack MBA study. By exploring various CSS properties and keyframe animations, we aim to enhance our understanding and proficiency in creating visually appealing and interactive web interfaces.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ This project is aimed at studying and testing advanced CSS transition and animat
 
 ## Introduction
 
-In this project, we will be experimenting with advanced CSS transition and animation techniques to create engaging and dynamic user experiences. By applying various CSS properties such as `transition`, `transform`, and `animation`, we will explore how to bring elements to life with smooth transitions, transformations, and animated effects.
+In this project, we will be experimenting with advanced CSS transition and animation techniques to create engaging and dynamic user experiences. By applying various CSS properties such as `transition`, `transform`, `animation`,and `@keyframes`, I'm exploring how to bring elements to life with smooth transitions, transformations, and animated effects.
 
 ## Technologies Used
 
